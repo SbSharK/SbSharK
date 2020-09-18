@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-<a href="http://sbshark.github.io/" target="_blank"><img title="Portfolio" align="left" alt="http://sbshark.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://twitter.com/schetan97" target="_blank"><img title="Twitter" align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://linkedin.com/in/sbshark" target="_blank"><img title="LinkedIn" align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://instagram.com/thesocalledengineer" target="_blank"><img title="Instagram" align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="http://sbshark.github.io/"><img title="Portfolio" align="left" alt="http://sbshark.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://twitter.com/schetan97"><img title="Twitter" align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/in/sbshark"><img title="LinkedIn" align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://instagram.com/thesocalledengineer"><img title="Instagram" align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br />
 
 ### Languages and Tools:
