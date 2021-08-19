@@ -2,9 +2,9 @@
 
 ## I'm a Developer, Designer
 - I’m currently working on my Design Skills
-- I’m currently learning everything
+- I’m currently learning programming
 - I’m looking to collaborate with other Developers and Designers here
-- 2020 Goals: Contribute more to Open Source projects
+- 2021 Goals: Learn and start contributing to open source projects
 - Hobbies : I love playing games, listening music
 
 ### Connect with me:
