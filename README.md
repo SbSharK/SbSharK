@@ -1,10 +1,8 @@
 ### Hi there, I'm Chetan Shinde - aka SbSharK👋
 
 ## I'm a Developer, Designer
-- I’m currently working on my Design Skills
-- I’m currently learning programming
+- I love Designing, Programming solutions that help in real world
 - I’m looking to collaborate with other Developers and Designers here
-- 2021 Goals: Learn and start contributing to open source projects
 - Hobbies : I love playing games, listening music
 
 ### Connect with me:
