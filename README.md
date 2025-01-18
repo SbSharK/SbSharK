@@ -14,7 +14,7 @@
 <br />
 
 ### Languages and Tools:
-<img title="Mulesoft" align="left" alt="Mulesoft" width="26px" src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2023/09/MuleSoft-From-Salesforce-Logo-RGB.png" /> 
+<img title="Mulesoft" align="left" alt="Mulesoft" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mulesoft_logo_icon_170933.png" /> 
 <img title="Visual Studio Code" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img title="HTML" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
 <img title="CSS" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
