@@ -14,7 +14,7 @@
 <br />
 
 ### Languages and Tools:
-<img title="Mulesoft" align="left" alt="Mulesoft" width="50px" src="https://drm.file.force.com/servlet/servlet.ImageServer?id=015KV00000AxfMy&oid=00DF0000000gZsu&lastMod=1714370148000" href="https://www.salesforce.com/trailblazer/dxzctjcex7gh7ul9lk"/> 
+<a href="https://www.salesforce.com/trailblazer/dxzctjcex7gh7ul9lk" target="blank" rel="noopener noreferrer"><img title="Mulesoft" align="left" alt="Mulesoft" width="50px" src="https://drm.file.force.com/servlet/servlet.ImageServer?id=015KV00000AxfMy&oid=00DF0000000gZsu&lastMod=1714370148000"/> </a>
 <img title="Visual Studio Code" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img title="HTML" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
 <img title="CSS" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
